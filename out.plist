@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://101.201.239.137:9083/Unity-iPhone.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=332232803,201478633&fm=173&app=49&f=JPEG?w=640&h=360&s=0F80F80204E184BCC5A9E1D703008060</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=332232803,201478633&fm=173&app=49&f=JPEG?w=640&h=360&s=0F80F80204E184BCC5A9E1D703008060</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.wangyuan.yjzz</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>App download</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
